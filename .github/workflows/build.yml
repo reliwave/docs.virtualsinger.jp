@@ -37,8 +37,8 @@ jobs:
           cd gh-pages
           git add .
           if [ -n "$(git status --porcelain)" ]; then
-            MKDOCS_VERSION=$(mkdocs --version)
-            COMMIT_HASH=$(git rev-parse --short HEAD)
+            MKDOCS_VERSION=$(mkdocs --version | awk '{print $1, $2}')
+            COMMIT_HASH=$(git rev-parse --short origin/master)
             git commit -m "Deploy: ${COMMIT_HASH} with MkDocs version: ${MKDOCS_VERSION}"
             git push origin gh-pages --force
           else
