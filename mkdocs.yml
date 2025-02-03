@@ -1,0 +1,7 @@
+site_name: ぼかろすきー Docs
+copyright: Copyright &copy; 2024-2025 Reliwave P.S
+theme:
+  name: material
+  language: ja
+  logo: assets/vocaloid.png
+  favicon: assets/vocaloid.png
