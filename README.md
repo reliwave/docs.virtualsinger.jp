@@ -1,6 +1,6 @@
 # docs.vocaloid.app
 
-これはCherrypickインスタンス [ぼかろすきー](https://vocaloid.app) のドキュメントサイトです。
+これは [Misskey Miry Remix インスタンス](https://github.com/catsmiry/misskey) (CherryPick) [ぼかろすきー](https://vocaloid.app) のドキュメントサイトです。
 
 Github Pagesでホスティングしています。
 
