@@ -25,4 +25,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
+      - run: git pull --rebase origin gh-pages
       - run: mkdocs gh-deploy
