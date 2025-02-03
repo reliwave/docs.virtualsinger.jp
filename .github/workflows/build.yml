@@ -26,4 +26,21 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: git pull --rebase origin gh-pages
-      - run: mkdocs gh-deploy
+      - run: mkdocs build
+      - run: |
+          git fetch origin gh-pages
+          git worktree add gh-pages
+          cd gh-pages
+          git reset --hard origin/gh-pages
+          cd ..
+          cp -r site/* gh-pages/
+          cd gh-pages
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            MKDOCS_VERSION=$(mkdocs --version)
+            COMMIT_HASH=$(git rev-parse --short HEAD)
+            git commit -m "Deploy: ${COMMIT_HASH} with MkDocs version: ${MKDOCS_VERSION}"
+            git push origin gh-pages --force
+          else
+            echo "No changes to commit"
+          fi
