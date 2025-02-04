@@ -5,3 +5,12 @@ theme:
   language: ja
   logo: assets/vocaloid.png
   favicon: assets/vocaloid.png
+nav:
+  - ホーム: index.md
+  - 利用規約: tos.md
+  - 簡易利用規約: tos-simple.md
+  - NSFWガイドライン: nsfw.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
