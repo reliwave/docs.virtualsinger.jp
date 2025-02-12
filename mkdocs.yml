@@ -10,6 +10,7 @@ nav:
   - 利用規約: tos.md
   - 簡易利用規約: tos-simple.md
   - NSFWガイドライン: nsfw.md
+  - プライバシーポリシー: privacy.md
 
 markdown_extensions:
   - attr_list
