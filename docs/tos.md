@@ -72,9 +72,9 @@
       <li>自傷行為に関する画像や動画を投稿する行為</li>
     </ul>
   </li>
-  <li><strong>NSFW コンテンツの投稿</strong>
+  <li><strong>NSFWガイドラインに反する行為</strong>
     <ul>
-      <li>NSFW コンテンツを NSFW 指定せずに投稿する行為</li>
+      <li>NSFW コンテンツだとみなされるものを NSFW 指定せずに投稿する行為など</li>
     </ul>
   </li>
   <li><strong>規約違反の回避</strong>
