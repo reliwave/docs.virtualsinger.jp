@@ -7,9 +7,8 @@ theme:
   favicon: assets/vocaloid.png
 nav:
   - ホーム: index.md
-  - New! 利用規約: tos.md
-  - New! 簡易利用規約: tos-simple.md
-  - Regacy 利用規約: regtos.md
+  - 利用規約: tos.md
+  - 簡易利用規約: tos-simple.md
   - NSFWガイドライン: nsfw.md
   - プライバシーポリシー: privacy.md
 
