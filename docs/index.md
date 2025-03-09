@@ -1,9 +1,10 @@
 # ぼかろすきー Docs にようこそ！
 
-**ぼかろすきー** は、VOCALOIDファンのためのMisskeyサーバーです。  
+**ぼかろすきー** は、VOCALOID ファンのための Misskey サーバーです。  
 このドキュメントでは、ぼかろすきーの利用規約などが書かれています。
 
 ## URL
-[ぼかろすきー](https://vocaloid.app)
 
-[ぼかろすきー情報局](https://vocaloid.app/@info)
+[ぼかろすきー](https://virtualsinger.jp)
+
+[ぼかろすきー情報局](https://virtualsinger.jp/@info)
