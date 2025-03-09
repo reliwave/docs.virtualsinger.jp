@@ -17,7 +17,7 @@
 
 ## 第4条 (サポート)
 
-本サーバーに関するお問い合わせは、ぼかろすきー Regacyのサポートメールアドレス([direct@reliwave.network](mailto:direct@reliwave.network))までご連絡ください。
+本サーバーに関するお問い合わせは、ぼかろすきー Regacyのサポートメールアドレス([abuse@virtualsinger.jp](mailto:abuse@virtualsinger.jp))までご連絡ください。
 
 ## 第5条 (モデレーター/管理者)
 
