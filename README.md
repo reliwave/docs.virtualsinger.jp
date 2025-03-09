@@ -1,4 +1,4 @@
-# docs.vocaloid.app
+# docs.virtualsinger.jp
 
 これは [Misskey Miry Remix インスタンス](https://github.com/catsmiry/misskey) (CherryPick) [New! ぼかろすきー](https://virtualsinger.jp) のドキュメントサイトです。
 
