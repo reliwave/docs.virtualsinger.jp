@@ -9,9 +9,10 @@ nav:
   - ホーム: index.md
   - New! 利用規約: tos.md
   - New! 簡易利用規約: tos-simple.md
-  - Regacy 利用規約: regtos.md
+  - Legacy 利用規約: regtos.md
   - NSFWガイドライン: nsfw.md
   - プライバシーポリシー: privacy.md
+  - アカウント移行マニュアル: migration.md
 
 markdown_extensions:
   - attr_list

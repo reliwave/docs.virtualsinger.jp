@@ -6,6 +6,6 @@
 ## URL
 [New! ぼかろすきー](https://virtualsinger.jp)
 
-[ぼかろすきー Regacy](https://vocaloid.app)
+[ぼかろすきー Legacy](https://vocaloid.app)
 
 [ぼかろすきー情報局](https://virtualsinger.jp/@info)
